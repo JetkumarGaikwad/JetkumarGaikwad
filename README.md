@@ -1,8 +1,8 @@
 # Hey, I'm Jetkumar 👋
 
-Final-year CS & Business Systems student @ JSPM RSCOE, Pimpri-Chinchwad.
+Final-year Computer Science & Business Systems student @ JSPM RSCOE, Pimpri-Chinchwad.
 I build real projects in C++ and Python — systems, games, and algorithms.
-IEEE co-author | Campus placement sprint 2026.
+IEEE co-author.
 
 ## 🛠 Tech Stack
 **Languages:** C · C++ · Python · SQL · Bash  
